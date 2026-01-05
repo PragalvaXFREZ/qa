@@ -48,10 +48,10 @@ report-setup:
 ## Generate fresh QA Report
 report-build: 
 	@echo "Generating QA Report..."
-# 	rm -rf allure-results || true
-# 	mkdir -p allure-results
-# 	cp kanvas-results/* allure-results/ || true
-# 	cp meshery-results/* allure-results/ || true
+	rm -rf allure-results || true
+	mkdir -p allure-results
+	cp kanvas-results/* allure-results/ || true
+	cp meshery-results/* allure-results/ || true
 	npm run report:generate
 
 ## Open QA report in browser
