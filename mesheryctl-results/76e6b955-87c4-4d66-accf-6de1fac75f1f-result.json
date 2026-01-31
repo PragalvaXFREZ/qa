@@ -1,0 +1,23 @@
+{
+  "uuid": "76e6b955-87c4-4d66-accf-6de1fac75f1f",
+  "name": "mesheryctl system token create fails without token name",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1769864367071,
+  "stop": 1769864367072,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    }
+  ]
+}
