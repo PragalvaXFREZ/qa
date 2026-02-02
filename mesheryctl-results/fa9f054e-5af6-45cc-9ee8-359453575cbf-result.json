@@ -1,0 +1,23 @@
+{
+  "uuid": "fa9f054e-5af6-45cc-9ee8-359453575cbf",
+  "name": "given invalid argument is provided as an argument when running mesheryctl connection view connection-id --output-format then a message error is displayed",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1769998084833,
+  "stop": 1769998084834,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    }
+  ]
+}

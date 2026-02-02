@@ -1,0 +1,23 @@
+{
+  "uuid": "28599912-334e-4b57-8c6e-c2af507725ac",
+  "name": "mesheryctl perf result displays results with correct headers and at least 2 entries",
+  "status": "passed",
+  "stage": "finished",
+  "start": 1769998084825,
+  "stop": 1769998084826,
+  "statusDetails": {},
+  "labels": [
+    {
+      "name": "framework",
+      "value": "bats"
+    },
+    {
+      "name": "language",
+      "value": "bash"
+    },
+    {
+      "name": "project",
+      "value": "mesheryctl"
+    }
+  ]
+}
